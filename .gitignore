@@ -48,9 +48,9 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
-Saved/Backup/*
-Saved/Crashes*
-Saved/Logs*
+Backup/
+Crashes/
+Logs/
 
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
