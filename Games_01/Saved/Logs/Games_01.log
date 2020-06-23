@@ -5643,3 +5643,492 @@ Script Stack (0 frames):
 [2020.06.23-22.37.29:257][770]SourceControl:  create mode 100644 Games_01/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
 [2020.06.23-22.37.29:257][770]SourceControl:  create mode 100644 Games_01/Content/Widgets/Bluaprint/qweasd.uasset
 [2020.06.23-22.37.29:262][770]SourceControl: Commited [master 1ad1d8e] Game.
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/MaterialLayerFunctions: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/MaterialLayerFunctions' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EngineMaterials: 'E:/Epic Games/UE_4.25/Engine/Content/EngineMaterials' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EngineMeshes/Humanoid.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/EngineMeshes/Humanoid.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EngineSky: 'E:/Epic Games/UE_4.25/Engine/Content/EngineSky' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/MapTemplates/lut/LUT_Daytime.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/MapTemplates/lut/LUT_Daytime.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.41:932][205]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset: 'E:/Epic Games/UE_4.25/Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset' is outside repository at 'E:/Unreal Projects/Main-project'
+[2020.06.23-22.51.51:500][205]SourceControl: Error: From https://github.com/Wild-Studia-Game/Main-project
+[2020.06.23-22.51.51:500][205]SourceControl: Error:  * branch            HEAD       -> FETCH_HEAD
+[2020.06.23-22.51.51:500][205]SourceControl: Already up to date.
+[2020.06.23-22.51.51:500][205]SourceControl: Current branch master is up to date.
+[2020.06.23-22.51.51:505][205]LogContentBrowser: Syncing 12 path(s):
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Lamp_N
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Lamp_M
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_Effect_Steam
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Steam_Lit
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Steam01_Cue
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Attack_Melee
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Sparks
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider_Skeleton
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Death
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Idle
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Spark
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Walk_Fwd
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Spark_Core
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider_idl
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Fire_Sparks01_Cue
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider_Anim
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_Effect_Smoke
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Smoke
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Smoke01_Cue
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_Effect_Fire
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_D
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_M
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Textures/T_Enemy_GreaterSpider_Fire_N
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Materials/CharM_Greater_Spider
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Walk_Right
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/Widgets/Game/widgets_styte_AI/W_Health_AI
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Mesh/UE4_Mannequin_Skeleton
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPerson_Jump
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPersonJump_Loop
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPersonJump_Start
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPersonIdle
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPersonRun
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPersonWalk
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPerson_IdleRun_2D
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Animations/ThirdPerson_AnimBP
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2020.06.23-22.51.51:505][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Walk_Left
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Fire
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Bluaprint/AC_State
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Game/Hud/UI
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Game/Hud/W_Armor
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Textures/UE4_LOGO_CARD
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Textures/UE4_Mannequin__normals
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/M_UE4Man_Body
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Textures/UE4Man_Logo_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Materials/M_UE4Man_ChestLogo
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Character/Mesh/SK_Mannequin
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_Blade_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_Blade_D
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Textures/T_Master_Grunt_Blade_M
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/Materials/M_Master_Grunt_Weapon
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SM_Master_Grunt_Blade_Internal
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_smoke_subUV
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Smoke_Tiled_D
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Game/Hud/W_loading
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Smoke_SubUV
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Walk_FWD
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Game/Hud/W_Death
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/Widgets/Game/Hud/W_Health
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Radial_Gradient
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Attack_Melee_B
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/Attack_Melee_B_Montage
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Attack_Melee_C
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/Attack_Melee_C_Montage
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/ExoGame_Greater_Spider_Attack_Melee
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/Enemy_SpiderGreater_Animation/Attack_Melee_Montage
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Heat_Distortion
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Water_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Fire_SubUV
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Fire_Tiled_D
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Fire_SubUV
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Fire01_Cue
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Wind06
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Birds01
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Wind05
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_TurnRight_90
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_TableRound
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_TableRound
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_TableRound_N
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_TableRound_M
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_TurnLeft_90
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Statue
+[2020.06.23-22.51.51:506][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/Skybox
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Stunned_B
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Statue
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Chair
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Knockback_Alt
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Background_Cue
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Heavy_Front_Alt
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_StatueGlass
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Statue_N
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Statue_M
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Heavy_Front
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Chair
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Chair_N
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Chair_M
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Idle
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Falling
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_DropDown
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_DormantPose
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Dormant_WakeUp
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Death_OilSpill
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Death_A
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_JumpSmash
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_Idle
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_Enter_JumpTuck
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_Enter_Jump
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_Charge_SuperFast
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Ball_Charge
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Attack_MeleeC
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Attack_MeleeB
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/charecter/ai/pawn/AI_Pawn
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Attack_Ball_Exit
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/BP_LightStudio
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_Aggro
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/SM_Arrows
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_AssetPlatform
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_Old_D
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_Old_N
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_MacroVariation
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Brick_Clay_Old
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Tiles_D
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Tiles_M
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Tiles_N
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Concrete_Tiles
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Glass
+[2020.06.23-22.51.51:507][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ground_Grass_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ground_Grass_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Ground_Grass
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Brushed_Nickel
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Aluminum_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Gold_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Burnished_Steel
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Chrome
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Copper_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Copper
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Gold_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Gold
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Rust_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Rust_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Rust
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Steel_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Metal_Steel_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Metal_Steel
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Basalt_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Basalt_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Rock_Basalt
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Marble_Polished_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Rock_Marble_Polished
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Sandstone_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Sandstone_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Rock_Sandstone
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Slate_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Slate_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Rock_Slate
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_E
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Fire_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Fire_M
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Fire_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_Spider_BossFire
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_Spider_BossFire_Inst
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Textures/T_Golem_DGold
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Textures/T_Golem_Gold_M
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Textures/T_GolemGold_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Materials/CharM_Fire_Golem
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/SK_Mannequin_Skeleton
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/SK_Fire_Golem
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Poison_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Poison_Emissive
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Textures/T_Enemy_SpiderBoss_Poison_M
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/Materials/CharM_Greater_Spider_Boss
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/SK_Greater_Spider_Boss_Skeleton
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/SK_Greater_Spider_Boss
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/SK_Greater_Spider_Boss_Cine_Skeleton
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/SK_Greater_Spider_Boss_Cine
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Textures/T_Gruntling_Emissive
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Textures/T_Gruntling_M
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_N
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling_Guardian/Textures/T_Gruntling_Guardian_D
+[2020.06.23-22.51.51:508][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/Materials/CharM_Gruntling
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/SK_Exodus_Gruntling_PhysicsAsset
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/SK_Exodus_Gruntling
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Gruntling/SK_Exodus_Gruntling_Skeleton
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Basic_Wall
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Basic_Floor
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/SunlightColorLUT
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Assets/FogBrightnessLUT
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Stunned
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Stunned_Enter
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Stunned_Exit
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/charecter/ai/B_AI_Controller
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/Enemy_Golem_Animations/ExoGame_Fire_Golem_React_Stunned_Idle
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/charecter/ai/BP_Enemy_Great_Spider
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/charecter/ai/pawn/multi_ai_pwn
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/charecter/ai/AC_State_AI
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Lamp
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Lamp_Ceiling
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_CeilingLight
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Lamp_Wall
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Blueprints/Blueprint_WallSconce
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_Beveled_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_Beveled_M
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_Beveled_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Brick_Clay_Beveled
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_New_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_New_M
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Clay_New_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Detail_Rocky_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Brick_Clay_New
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Cut_Stone_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Cut_Stone_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Brick_Cut_Stone
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Hewn_Stone_M
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Brick_Hewn_Stone_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Brick_Hewn_Stone
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ceramic_Tile_M
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ceramic_Tile_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Ceramic_Tile_Checker
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Pebble_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Pebble_M
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Pebble_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_CobbleStone_Pebble
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Rough_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Rough_N
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Gradinet_01
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Rock_Smooth_Granite_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_CobbleStone_Rough
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Smooth_D
+[2020.06.23-22.51.51:509][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Smooth_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_CobbleStone_Smooth_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_CobbleStone_Smooth
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Grime_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Concrete_Grime
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Panels_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Panels_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Concrete_Panels
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Poured_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Concrete_Poured_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Concrete_Poured
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ground_Gravel_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ground_Gravel_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Ground_Gravel
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_ground_Moss_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Ground_Moss_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Ground_Moss
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Checker_Noise_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Single_Tile_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Dot_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Dot_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Tech_Checker_Dot
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Hex_Tile_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Hex_Tile_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Panel_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Tech_Panel_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Tech_Panel
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Water_Lake
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Water_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Water_Ocean
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Floor_Walnut_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Floor_Walnut_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Oak_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Oak_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Wood_Oak
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Pine_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Pine_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Wood_Pine
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Walnut_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Wood_Walnut_N
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Materials/M_Wood_Walnut
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Collapse_Cue
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Music_Cue
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Dust_Particle_D
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/Materials/M_Dust_Particle
+[2020.06.23-22.51.51:510][205]LogContentBrowser: 	 - /Game/StarterContent/Particles/P_Ambient_Dust
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/MaterialSphere
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Frame_M
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Frame_N
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Frame
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_CornerFrame
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_DoorFrame
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_GlassWindow
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_PillarFrame
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_PillarFrame300
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_WindowFrame
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Stairs
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Shelf
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Shelf
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Shelf_N
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Shelf_M
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Rock
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Rock
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_RockMesh_N
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_RockMesh_M
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_MatPreviewMesh_02
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_MaterialSphere
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Door
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Door
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Door_N
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Door_M
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Fire01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Starter_Music01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Collapse01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Collapse02
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Steam01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Fire_Sparks01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Audio/Smoke01
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Couch
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/SM_Bush
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Props/Materials/M_Bush
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Bush_N
+[2020.06.23-22.51.51:511][205]LogContentBrowser: 	 - /Game/StarterContent/Textures/T_Bush_D
+[2020.06.23-22.51.51:511][205]LightingResults: New page: Lighting Build
+[2020.06.23-22.51.51:514][205]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-22.51.51:515][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-22.51.51:523][205]MapCheck: New page: Map Check
+[2020.06.23-22.51.51:523][205]LightingResults: New page: Lighting Build
+[2020.06.23-22.51.51:544][205]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002B90B8B0600), frame # 64205
+[2020.06.23-22.51.51:545][205]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002B909EE3B00), frame # 64205
+[2020.06.23-22.51.51:546][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.06.23-22.51.51:561][205]LogAIModule: Creating AISystem for world Untitled
+[2020.06.23-22.51.51:562][205]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002B9B189C400), frame # 64205
+[2020.06.23-22.51.51:562][205]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002B938768900), frame # 64205
+[2020.06.23-22.51.51:665][205]LoadErrors: New page: New Map
+[2020.06.23-22.51.51:669][205]LogUObjectGlobals: Reloading 338 Package(s):
+	Asset Name: /Game/StarterContent/Textures/T_Lamp_N
+	Asset Name: /Game/StarterContent/Textures/T_Lamp_M
+	Asset Name: /Game/StarterContent/Audio/Steam01_Cue
+	Asset Name: /Game/StarterContent/Textures/T_Smoke_SubUV
+	Asset Name: /Game/StarterContent/Textures/T_Smoke_Tiled_D
+	Asset Name: /Game/StarterContent/Particles/Materials/M_smoke_subUV
+	Asset Name: /Game/StarterContent/Particles/P_Steam_Lit
+	Asset Name: /Game/StarterContent/Blueprints/Blueprint_Effect_Steam
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01_Cue
+	Asset Name: /Game/StarterContent/Particles/Materials/M_Radial_Gradient
+[2020.06.23-22.51.51:694][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.06.23-22.51.51:864][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.06.23-22.51.52:023][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.06.23-22.51.52:187][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.06.23-22.51.52:376][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.06.23-22.51.52:566][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.06.23-22.51.52:748][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.06.23-22.51.52:959][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.23-22.51.53:242][205]LogSkeletalMesh: Building Skeletal Mesh SK_Fire_Golem...
+[2020.06.23-22.51.53:261][205]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Golem/SK_Fire_Golem.SK_Fire_Golem
+[2020.06.23-22.51.53:285][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.06.23-22.51.53:463][205]LogSkeletalMesh: Building Skeletal Mesh SK_Greater_Spider...
+[2020.06.23-22.51.53:468][205]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Great_Spider/SK_Greater_Spider.SK_Greater_Spider
+[2020.06.23-22.51.53:530][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.06.23-22.51.53:727][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.06.23-22.51.53:959][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.06.23-22.51.54:230][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.23-22.51.54:483][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.06.23-22.51.54:520][205]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/charecter/ai/AC_State_AI.AC_State_AI_C for a property of BlueprintGeneratedClass /Game/charecter/ai/AC_State_AI_DEADPACKAGE_34.AC_State_AI_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/charecter/ai/BP_Enemy_Great_Spider.BP_Enemy_Great_Spider_C:AC_State_AI
+    Item = AC_State_AI_C /Engine/Transient.World_1:PersistentLevel.BP_Enemy_Great_Spider_C_1.AC_State_AI
+[2020.06.23-22.51.54:780][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.23-22.51.55:194][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.06.23-22.51.55:448][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.06.23-22.51.55:660][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.06.23-22.51.55:897][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.06.23-22.51.56:227][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.06.23-22.51.56:473][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.06.23-22.51.56:502][205]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'UI_C:WidgetTree.W_Health' in the new package '/Game/Widgets/Game/Hud/UI'. Any existing references to this object will be nulled out.
+[2020.06.23-22.51.56:502][205]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'UI:WidgetTree.W_Health' in the new package '/Game/Widgets/Game/Hud/UI'. Any existing references to this object will be nulled out.
+[2020.06.23-22.51.56:740][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.06.23-22.51.56:816][205]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/Widgets/Bluaprint/AC_State.AC_State_C for a property of BlueprintGeneratedClass /Game/Widgets/Bluaprint/AC_State_DEADPACKAGE_49.AC_State_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:AC_State
+    Item = AC_State_C /Engine/Transient.World_62:PersistentLevel.ThirdPersonCharacter_C_0.AC_State
+[2020.06.23-22.51.57:166][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.06.23-22.51.57:406][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.06.23-22.51.57:635][205]LogStaticMesh: Building static mesh SM_Master_Grunt_Blade_Internal...
+[2020.06.23-22.51.57:638][205]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeAdversaries/Enemy/Enemy_Master_Grunt/SM_Master_Grunt_Blade_Internal_DEADPACKAGE_54.SM_Master_Grunt_Blade_Internal
+[2020.06.23-22.51.57:652][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.06.23-22.51.57:843][205]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.23-22.51.57:996][205]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 98
+[2020.06.23-22.51.57:996][205]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 88
+[2020.06.23-22.51.57:996][205]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 78
+[2020.06.23-22.51.58:002][205]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.23-22.51.58:115][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.06.23-22.51.58:328][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.06.23-22.51.58:584][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.06.23-22.51.58:770][205]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.23-22.51.58:841][205]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.23-22.51.58:934][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.06.23-22.51.59:181][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.06.23-22.51.59:474][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.06.23-22.51.59:819][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.06.23-22.52.00:289][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.06.23-22.52.00:367][205]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'ThirdPersonCharacter_C:InputKeyDelegateBinding_1' in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.06.23-22.52.00:367][205]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'ThirdPersonCharacter_C:InputAxisDelegateBinding_1' in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.06.23-22.52.00:367][205]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'ThirdPersonCharacter_C:InputActionDelegateBinding_1' in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2020.06.23-22.52.04:262][205]LogWindows: Error: === Critical error: ===
+[2020.06.23-22.52.04:263][205]LogWindows: Error: 
+[2020.06.23-22.52.04:263][205]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+[2020.06.23-22.52.04:263][205]LogWindows: Error: 
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd028e7630 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd01e64950 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd01d5f36f UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd01d9ebfe UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd019f4022 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf8fd575b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf8fd737b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf8f8ef4f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf7a1543a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf90e8313 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf90dbd24 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd048ee1c3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf9101317 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcf91000d5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcefc135cb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffcefcc1375 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd011caaa5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd011d1240 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd011aa857 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd01241f9e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd0125b19e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd011d29b5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd010a2d68 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd011268ef UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd0110f3d2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd01102332 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd25a67f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd25a55c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd25a6a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd25a517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd470e5c0d USER32.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd470e5602 USER32.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd25a6bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ff6c3bc68c4 UE4Editor.exe!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ff6c3bdba7c UE4Editor.exe!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ff6c3bdbb5a UE4Editor.exe!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ff6c3bee31d UE4Editor.exe!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ff6c3bf145a UE4Editor.exe!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd474f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: [Callstack] 0x00007ffd47f4ce51 ntdll.dll!UnknownFunction []
+[2020.06.23-22.52.04:263][205]LogWindows: Error: 
+[2020.06.23-22.52.04:298][205]LogExit: Executing StaticShutdownAfterError
+[2020.06.23-22.52.04:381][205]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.23-22.52.04:381][205]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.06.23-22.52.04:392][205]Log file closed, 06/24/20 01:52:04
